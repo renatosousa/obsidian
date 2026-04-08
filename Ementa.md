@@ -1,1 +1,20 @@
-File unchanged since last read. The content from the earlier read_file result in this conversation is still current — refer to that instead of re-reading.
+- Direito Empresarial (Comercial)1032 questões
+- Direito Empresarial: Conceito, Autonomia, Fontes, Princípios, Histórico13 questões
+- Direito de Empresa18 questões
+  - Do Empresário (arts. 966 a 980 do CC)84 questões
+  - Do Empresário: da Caracterização e Inscrição (arts. 966 a 971 do CC)43 questões
+  - Do Empresário: da Capacidade (arts. 972 a 980 do CC)41 questões
+  - Do Estabelecimento (arts. 1.142 a 1.149 do CC)49 questões
+  - Dos Institutos Complementares (arts. 1.150 a 1.195 do CC)85 questões
+  - Do Registro (arts. 1.150 a 1.154 do CC)15 questões
+  - Do Nome Empresarial (arts. 1.155 a 1.168 do CC)30 questões
+  - Dos Prepostos (arts. 1.169 a 1.178 do CC)16 questões
+  - Da Escrituração (arts. 1.179 a 1.195 do CC)24 questões
+- Da Sociedade63 questões
+  - Sociedade: Conceito, Classificação e Disposições Gerais (arts. 981 a 985 do CC)41 questões
+  - Sociedades Não Personificadas40 questões
+    - Sociedade em Comum (arts. 986 a 990 do CC)26 questões
+    - Sociedade em Conta de Participação (arts. 991 a 996 do CC)14 questões
+  - Sociedade Personificada (arts. 997 a 1.141 do CC)180 questões
+    - Sociedade Simples (arts. 997 a 1.027 do CC)41 questões
+    - Sociedade em Nome Coletivo (arts. 1.039 a 1.044 do CC)11 questões
